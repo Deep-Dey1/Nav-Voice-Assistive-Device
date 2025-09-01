@@ -7,7 +7,7 @@ This repository contains the code base and performance analysis of **NavVoice** 
 
 ### 📺 Demo
 
-Watch the demo of the NavVoice device here: [Watch Here]([https://www.youtube.com/watch?v=V9Kyx8cnkaY])
+Watch the demo of the NavVoice device here: [Watch Here](https://www.youtube.com/watch?v=V9Kyx8cnkaY)
 
 ---
 
